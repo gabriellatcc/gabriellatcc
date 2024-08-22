@@ -2,9 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=6b11h&label=Profile%20views&color=0e75b6&style=flat" alt="6b11h" />
 </p>
 
-<p>
-  ![welcomeO](https://github.com/user-attachments/assets/fa965163-c407-4ab8-874e-ba6905b292d6)
-</p>
+![welcomeO](https://github.com/user-attachments/assets/fa965163-c407-4ab8-874e-ba6905b292d6)
 
 ## Olá! 👋 <sup><sub><b><span style="font-size: 10px; font-family: Arial, sans-serif;">BR</span></b></sub></sup>
 
