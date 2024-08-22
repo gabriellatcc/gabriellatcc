@@ -31,7 +31,3 @@ I'm Gabriella, at the beginning of my career, exploring the world of code. Welco
 
 ### 🔥 Minha sequência de Código | My Coding Streak:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=6b11h&" alt="6b11h" /></p>
-
-Watch my contribution graph get eaten by a snake
-![snake gif](https://github.com/6b11h/6b11h/blob/output/github-contribution-grid-snake.gif)
-![Contribuições](https://username.github.io/username/github-contribution-grid-snake.svg)
