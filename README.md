@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/ffc45e27-2a46-42be-ada4-76cf6342a438" alt="welcomeO" />
 
-<h2>👋 Olá!<sup><sub><b><span style="font-size: 10px; font-family: Arial, sans-serif;">BR</span></b></sub></sup></h2>
+<h2>👋 Olá! <sup><sub><b><span style="font-size: 10px; font-family: Arial, sans-serif;">BR</span></b></sub></sup></h2>
 
 <p>Eu sou Gabriella, uma desenvolvedora em início de carreira apaixonada explorando o mundo do código. Bem-vindo ao meu perfil no GitHub!</p>
 
@@ -10,9 +10,9 @@
   <li>- Curiosidade: Adoro combinar minha paixão por tecnologia com criatividade!</li>
 </ul>
 
-<h2>👋 Hello!<sup><sub><b><span style="font-size: 10px; font-family: Arial, sans-serif;">US</span></b></sub></sup></h2>
+<h2>👋 Hello! <sup><sub><b><span style="font-size: 10px; font-family: Arial, sans-serif;">US</span></b></sub></sup></h2>
 
-<p>I'm Gabriella, at the beginning of my career, exploring the world of code. Welcome to my GitHub profile!</p>
+<p>I'm Gabriella, at the beginning of my developer career, exploring the world of code. Welcome to my GitHub profile!</p>
 
 <ul>
   <li>- Currently, I am eager to and actively investing in enhancing my Java development skills and participating in the <strong>#100DaysOfCode</strong> challenge.</li>
@@ -30,13 +30,6 @@
   </a>
 </p>
 
-<h3>🌐 Conecte-se comigo | Connect with me:</h3>
-<p>
-  <a href="https://www.linkedin.com/in/gabriella-t-9b000b236/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
-
 <h3>🔥 Minha sequência de Código | My Coding Streak:</h3>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=6b11h&" alt="6b11h"/>
@@ -44,3 +37,10 @@
 
 <h3>🐍 Veja minhas contribuições serem comidas por uma cobra | Watch my contributions been eaten by a snake:</h3>
 <img src="https://raw.githubusercontent.com/6b11h/6b11h/output/snake.svg" alt="Snake animation" />
+
+<h3>🌐 Conecte-se comigo | Connect with me:</h3>
+<p>
+  <a href="https://www.linkedin.com/in/gabriella-t-9b000b236/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
