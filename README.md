@@ -42,5 +42,5 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=6b11h&" alt="6b11h"/>
 </p>
 
-<h3>🐍 Observe minhas contribuições serem devoradas por uma cobra | Watch my contributions been eaten by a snake:</h3>
+<h3>🐍 Veja minhas contribuições serem comidas por uma cobra | Watch my contributions been eaten by a snake:</h3>
 <img src="https://raw.githubusercontent.com/6b11h/6b11h/output/snake.svg" alt="Snake animation" />
