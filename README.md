@@ -20,6 +20,11 @@
   <li>- Fun fact: I love combining my passion for technology with creativity!</li>
 </ul>
 
+<h3>🔥 Minha sequência de Código | My Coding Streak:</h3>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=6b11h&" alt="6b11h"/>
+</p>
+
 <h3>🛠️ Tecnologias e Ferramentas | Technologies and Tools:</h3>
 <p>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -28,11 +33,6 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-</p>
-
-<h3>🔥 Minha sequência de Código | My Coding Streak:</h3>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=6b11h&" alt="6b11h"/>
 </p>
 
 <h3>🐍 Veja minhas contribuições serem comidas por uma cobra | Watch my contributions been eaten by a snake:</h3>
