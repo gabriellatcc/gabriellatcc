@@ -1,5 +1,4 @@
-
-![welcomeO](https://github.com/user-attachments/assets/fa965163-c407-4ab8-874e-ba6905b292d6)
+![welcomeO](https://github.com/user-attachments/assets/ffc45e27-2a46-42be-ada4-76cf6342a438)
 
 ## Olá! 👋  <sup><sub><b><span style="font-size: 10px; font-family: Arial, sans-serif;">BR</span></b></sub></sup>
 
