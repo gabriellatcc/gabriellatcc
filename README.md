@@ -43,4 +43,9 @@
   <a href="https://www.linkedin.com/in/gabriella-t-9b000b236/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
+  
+  <a href="mailto:gabriellatccorrea@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Email-gabriellatccorrea%40gmail.com-brightgreen?style=for-the-badge&logo=gmail" alt="Email"/>
+</a>
+
 </p>
