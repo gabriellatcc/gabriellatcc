@@ -20,11 +20,6 @@
   <li>- Fun fact: I love combining my passion for technology with creativity!</li>
 </ul>
 
-<h3>🔥 Minha sequência de Código | My Coding Streak:</h3>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=6b11h&" alt="6b11h"/>
-</p>
-
 <h3>🛠️ Tecnologias e Ferramentas | Technologies and Tools:</h3>
 <p>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -35,9 +30,6 @@
   </a>
 </p>
 
-<h3>🐍 Veja minhas contribuições serem comidas por uma cobra | Watch my contributions been eaten by a snake:</h3>
-<img src="https://raw.githubusercontent.com/6b11h/6b11h/output/snake.svg" alt="Snake animation" />
-
 <h3>🌐 Conecte-se comigo | Connect with me:</h3>
 <p>
   <a href="https://www.linkedin.com/in/gabriella-t-9b000b236/" target="_blank" rel="noreferrer">
@@ -45,7 +37,13 @@
   </a>
   
   <a href="mailto:gabriellatccorrea@gmail.com" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Email-gabriellatccorrea%40gmail.com-brightgreen?style=for-the-badge&logo=gmail" alt="Email"/>
-</a>
+    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 
+<h3>🐍 Veja minhas contribuições serem comidas por uma cobra | Watch my contributions been eaten by a snake:</h3>
+<img align="center" src="https://raw.githubusercontent.com/6b11h/6b11h/output/snake.svg" alt="Snake animation" />
+  
+  <h3>🔥 Minha sequência de Código | My Coding Streak:</h3>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=6b11h&" alt="6b11h"/>
 </p>
