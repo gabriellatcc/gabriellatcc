@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/ffc45e27-2a46-42be-ada4-76cf6342a438" alt="welcomeO" />
 
-<h2>👋 Olá! <sup><sub><b><span style="font-size: 10px; font-family: Arial, sans-serif;">BR</span></b></sub></sup></h2>
+<h2>👋 Olá! <sup><sub><b><span style="font-size: 15px; font-family: Arial, sans-serif;">BR</span></b></sub></sup></h2>
 
 <p>Eu sou Gabriella, uma desenvolvedora em início de carreira apaixonada explorando o mundo do código. Bem-vindo ao meu perfil no GitHub!</p>
 
@@ -10,7 +10,7 @@
   <li>- Curiosidade: Adoro combinar minha paixão por tecnologia com criatividade!</li>
 </ul>
 
-<h2>👋 Hello! <sup><sub><b><span style="font-size: 10px; font-family: Arial, sans-serif;">US</span></b></sub></sup></h2>
+<h2>👋 Hello! <sup><sub><b><span style="font-size: 15px; font-family: Arial, sans-serif;">US</span></b></sub></sup></h2>
 
 <p>I'm Gabriella, at the beginning of my developer career, exploring the world of code. Welcome to my GitHub profile!</p>
 
