@@ -44,6 +44,6 @@
 <img align="center" src="https://raw.githubusercontent.com/6b11h/6b11h/output/snake.svg" alt="Snake animation" />
   
   <h3>🔥 Minha sequência de Código | My Coding Streak:</h3>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=6b11h&" alt="6b11h"/>
-</p>
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gabriellatcc&theme=midnight-purple&card_width=494" alt="GitHub Streak" />
+</a>
