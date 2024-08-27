@@ -5,9 +5,9 @@
 <p>Eu sou Gabriella, uma desenvolvedora em início de carreira apaixonada explorando o mundo do código. Seja bem-vindo(a) ao meu perfil no GitHub!</p>
 
 <ul>
-  <li>- Atualmente, quero e estou investindo em aprimorar minhas habilidades em desenvolvimento Java e no desafio <strong>#100DaysOfCode</strong>.</li>
-  <li>- Estou aprendendo Java, enquanto continuo revisitando e relembrando conceitos da linguagem C.</li>
-  <li>- Curiosidade: Adoro combinar minha paixão por tecnologia com criatividade!</li>
+  <li>Atualmente, quero e estou investindo em aprimorar minhas habilidades em desenvolvimento Java e no desafio <strong>#100DaysOfCode</strong>.</li>
+  <li>Estou aprendendo Java, enquanto continuo revisitando e relembrando conceitos da linguagem C.</li>
+  <li>Curiosidade: Adoro combinar minha paixão por tecnologia com criatividade!</li>
 </ul>
 
 <h2>👋 Hello! <sup><sub><b><span style="font-size: 15px; font-family: Arial, sans-serif;">US</span></b></sub></sup></h2>
@@ -15,9 +15,9 @@
 <p>I'm Gabriella, at the beginning of my developer career, exploring the world of code. Welcome to my GitHub profile!</p>
 
 <ul>
-  <li>- Currently, I am eager to and actively investing in enhancing my Java development skills and participating in the <strong>#100DaysOfCode</strong> challenge.</li>
-  <li>- I’m learning Java while continuing to revisit and recall concepts from the C language.</li>
-  <li>- Fun fact: I love combining my passion for technology with creativity!</li>
+  <li>Currently, I am eager to and actively investing in enhancing my Java development skills and participating in the <strong>#100DaysOfCode</strong> challenge.</li>
+  <li>I’m learning Java while continuing to revisit and recall concepts from the C language.</li>
+  <li>Fun fact: I love combining my passion for technology with creativity!</li>
 </ul>
 
 <h3>🛠️ Tecnologias e Ferramentas | Technologies and Tools:</h3>
