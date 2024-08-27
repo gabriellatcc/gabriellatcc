@@ -2,7 +2,7 @@
 
 <h2>👋 Olá! <sup><sub><b><span style="font-size: 15px; font-family: Arial, sans-serif;">BR</span></b></sub></sup></h2>
 
-<p>Eu sou Gabriella, uma desenvolvedora em início de carreira apaixonada explorando o mundo do código. Bem-vindo ao meu perfil no GitHub!</p>
+<p>Eu sou Gabriella, uma desenvolvedora em início de carreira apaixonada explorando o mundo do código. Seja bem-vindo(a) ao meu perfil no GitHub!</p>
 
 <ul>
   <li>- Atualmente, quero e estou investindo em aprimorar minhas habilidades em desenvolvimento Java e no desafio <strong>#100DaysOfCode</strong>.</li>
