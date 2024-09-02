@@ -20,6 +20,13 @@
   <li>Fun fact: I love combining my passion for technology with creativity!</li>
 </ul>
 
+<h3>📦 Meus repositórios operantes | My operating repositories:</h3>
+<ul>
+  <li><a href="https://github.com/gabriellatcc/Classes-in-C">Classes in C</a></li>
+  <li><a href="https://github.com/gabriellatcc/Classes-in-Java">Classes in Java</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode">Classes in C</a></li>
+</ul>
+
 <h3>🛠️ Tecnologias e Ferramentas | Technologies and Tools:</h3>
 <p>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
