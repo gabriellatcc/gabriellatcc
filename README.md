@@ -24,7 +24,7 @@
 <ul>
   <li><a href="https://github.com/gabriellatcc/Classes-in-C">⚙️ Classes in C</a></li>
   <li><a href="https://github.com/gabriellatcc/Classes-in-Java">☕ Classes in Java</a></li>
-  <li><a href="https://github.com/gabriellatcc/100DaysOfCode">💯100 Days Of Code chalenge</a></li>
+  <li><a href="https://github.com/gabriellatcc/100DaysOfCode">💯100 Days Of Code challenge</a></li>
 </ul>
 
 <h3>🛠️ Tecnologias e Ferramentas | Technologies and Tools:</h3>
