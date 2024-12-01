@@ -22,12 +22,7 @@ I'm Gabriella, at the beginning of my developer career, exploring the world of c
 - [📷 Photo Event](https://github.com/gabriellatcc/PhotoEvent)
 
 ### 🛠️ Tecnologias e Ferramentas | Technologies and Tools:
-![C](icons/c.png)
-![Java](icons/java.png)
-![MongoDB](icons/mongodb.png)
-![Visual Studio](icons/visual-studio.png) 
-![IntelliJ IDEA](icons/intellij.png) 
-
+![C](https://img.icons8.com/color/48/000000/c-programming.png) ‎ ‎ ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)  ‎ ‎ ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ‎ ‎ ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)  ‎  ‎ ![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png)‎ ‎   ![Code::Blocks](https://img.icons8.com/color/48/000000/code-blocks.png) 
 
 ### 🌐 Conecte-se comigo | Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriella-t-9b000b236/)
