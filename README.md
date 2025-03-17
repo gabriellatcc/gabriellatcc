@@ -25,11 +25,16 @@ I'm Gabriella, at the beginning of my developer career, exploring the world of c
 ![C](https://img.icons8.com/color/48/000000/c-programming.png) ‎ ‎ ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)  ‎ ‎ ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ‎ ‎ ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)  ‎  ‎ ![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png)‎ ‎   ![Code::Blocks](https://img.icons8.com/color/48/000000/code-blocks.png) 
 
 ### 🌐 Conecte-se comigo | Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriella-t-9b000b236/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriellatccorrea/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriellatccorrea@gmail.com)
 
 ### 🐍 Veja minhas contribuições serem comidas por uma cobra | Watch my contributions been eaten by a snake:
 ![Snake animation](https://raw.githubusercontent.com/6b11h/6b11h/output/snake.svg)
 
-### 🔥 Minha sequência de Código | My Coding Streak:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gabriellatcc&theme=midnight-purple&card_width=494)](https://git.io/streak-stats)
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gabriellatcc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gabriellatcc&theme=dark&hide_border=false)<br/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=gabriellatcc&icon=0&color=0)](https://visitcount.itsvg.in)
+
