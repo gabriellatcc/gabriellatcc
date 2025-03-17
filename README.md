@@ -4,7 +4,7 @@
 
 Eu sou Gabriella, uma desenvolvedora em início de carreira apaixonada explorando o mundo do código. Seja bem-vindo(a) ao meu perfil no GitHub!
 
-- Atualmente, quero e estou investindo em aprimorar minhas habilidades em desenvolvimento Java e no desafio **#100DaysOfCode**.
+- Atualmente, quero e estou investindo em aprimorar minhas habilidades em desenvolvimento Java.
 - Estou aprendendo Java, enquanto continuo revisitando e relembrando conceitos da linguagem C.
 - Curiosidade: Adoro combinar minha paixão por tecnologia com criatividade!
 
@@ -12,7 +12,7 @@ Eu sou Gabriella, uma desenvolvedora em início de carreira apaixonada explorand
 
 I'm Gabriella, at the beginning of my developer career, exploring the world of code. Welcome to my GitHub profile!
 
-- Currently, I am eager to and actively investing in enhancing my Java development skills and participating in the **#100DaysOfCode** challenge.
+- Currently, I am eager to and actively investing in enhancing my Java development skills.
 - I’m learning Java while continuing to revisit and recall concepts from the C language.
 - Fun fact: I love combining my passion for technology with creativity!
 
@@ -20,6 +20,7 @@ I'm Gabriella, at the beginning of my developer career, exploring the world of c
 - [⚙️ Classes in C](https://github.com/gabriellatcc/Classes-in-C)
 - [☕ Classes in Java](https://github.com/gabriellatcc/Classes-in-Java)
 - [📷 Photo Event](https://github.com/gabriellatcc/PhotoEvent)
+- [📆 Eventually](https://github.com/gabriellatcc/Eventually)
 
 ### 🛠️ Tecnologias e Ferramentas | Technologies and Tools:
 ![C](https://img.icons8.com/color/48/000000/c-programming.png) ‎ ‎ ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)  ‎ ‎ ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ‎ ‎ ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)  ‎  ‎ ![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png)‎ ‎   ![Code::Blocks](https://img.icons8.com/color/48/000000/code-blocks.png) 
