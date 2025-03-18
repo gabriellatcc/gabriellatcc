@@ -21,9 +21,9 @@ I'm Gabriella, at the beginning of my developer career, exploring the world of c
 - [📷 Photo Event](https://github.com/gabriellatcc/PhotoEvent)
 - [📆 Eventually](https://github.com/gabriellatcc/Eventually)
 #### 🎓 Exercícios e Estudos | Exercises and Studies:
-- [⚙️ Classes in C](https://github.com/gabriellatcc/Classes-in-C)
-- [☕ Classes in Java](https://github.com/gabriellatcc/Classes-in-Java)
-- [🟣 Classes in C#](https://github.com/gabriellatcc/Classes-in-CSharp)
+- [⚙️ Exercises in C language](https://github.com/gabriellatcc/Exercises-in-C)
+- [☕ Exercises in Java language](https://github.com/gabriellatcc/Exercises-in-Java)
+- [🟣 Classes in C# language](https://github.com/gabriellatcc/Classes-in-CSharp)
 
 ### 🛠️ Tecnologias e Ferramentas | Technologies and Tools:
 ![C](https://img.icons8.com/color/48/000000/c-programming.png) ‎ ‎ ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)  ‎ ‎ ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ‎ ‎ ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)  ‎  ‎ ![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png)‎ ‎   ![Code::Blocks](https://img.icons8.com/color/48/000000/code-blocks.png) 
