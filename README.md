@@ -2,7 +2,7 @@
 
 ## 👋 Olá! <sup><sub><b><span style="font-size: 15px; font-family: Arial, sans-serif;">BR</span></b></sub></sup>
 
-Eu sou Gabriella, uma desenvolvedora em início de carreira apaixonada explorando o mundo do código. Seja bem-vindo(a) ao meu perfil no GitHub!
+Eu sou Gabriella, uma desenvolvedora em início de carreira explorando o mundo do código. Seja bem-vindo(a) ao meu perfil no GitHub!
 
 - Atualmente, quero e estou investindo em aprimorar minhas habilidades em desenvolvimento Java.
 - Estou aprendendo Java, enquanto continuo revisitando e relembrando conceitos da linguagem C e C#.
