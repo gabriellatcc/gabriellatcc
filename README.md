@@ -5,7 +5,7 @@
 Eu sou Gabriella, uma desenvolvedora em início de carreira apaixonada explorando o mundo do código. Seja bem-vindo(a) ao meu perfil no GitHub!
 
 - Atualmente, quero e estou investindo em aprimorar minhas habilidades em desenvolvimento Java.
-- Estou aprendendo Java, enquanto continuo revisitando e relembrando conceitos da linguagem C.
+- Estou aprendendo Java, enquanto continuo revisitando e relembrando conceitos da linguagem C e C#.
 - Curiosidade: Adoro combinar minha paixão por tecnologia com criatividade!
 
 ## 👋 Hello! <sup><sub><b><span style="font-size: 15px; font-family: Arial, sans-serif;">US</span></b></sub></sup>
@@ -13,13 +13,14 @@ Eu sou Gabriella, uma desenvolvedora em início de carreira apaixonada explorand
 I'm Gabriella, at the beginning of my developer career, exploring the world of code. Welcome to my GitHub profile!
 
 - Currently, I am eager to and actively investing in enhancing my Java development skills.
-- I’m learning Java while continuing to revisit and recall concepts from the C language.
+- I’m learning Java while continuing to revisit and recall concepts from the C and C# language.
 - Fun fact: I love combining my passion for technology with creativity!
 
 ### 📦 Meus repositórios operantes | My operating repositories:
 #### 📌Projetos | Projects:
 - [📷 Photo Event](https://github.com/gabriellatcc/PhotoEvent)
 - [📆 Eventually](https://github.com/gabriellatcc/Eventually)
+- [🧑‍🔧 Motorize](https://github.com/gabriellatcc/Motorize)
 #### 🎓 Exercícios e Estudos | Exercises and Studies:
 - [⚙️ Exercises in C language](https://github.com/gabriellatcc/Exercises-in-C)
 - [☕ Exercises in Java language](https://github.com/gabriellatcc/Exercises-in-Java)
