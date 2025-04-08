@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/ffc45e27-2a46-42be-ada4-76cf6342a438" alt="welcomeO" />
+<img src="https://github.com/user-attachments/assets/ffc45e27-2a46-42be-ada4-76cf6342a438" alt="welcomeO"/>
 
 ## 👋 Olá! <sup><sub><b><span style="font-size: 15px; font-family: Arial, sans-serif;">BR</span></b></sub></sup>
 
@@ -22,12 +22,13 @@ I'm Gabriella, at the beginning of my developer career, exploring the world of c
 - [📆 Eventually](https://github.com/gabriellatcc/Eventually)
 - [🧑‍🔧 Motorize](https://github.com/gabriellatcc/Motorize)
 #### 🎓 Exercícios e Estudos | Exercises and Studies:
+- [⚠️ Java study area with Spring Boot](https://github.com/gabriellatcc/EstudoJavaSpring)
 - [⚙️ Exercises in C language](https://github.com/gabriellatcc/Exercises-in-C)
 - [☕ Exercises in Java language](https://github.com/gabriellatcc/Exercises-in-Java)
 - [🟣 Classes in C# language](https://github.com/gabriellatcc/Classes-in-CSharp)
 
-### 🛠️ Tecnologias e Ferramentas | Technologies and Tools:
-![C](https://img.icons8.com/color/48/000000/c-programming.png) ‎ ‎ ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)  ‎ ‎ ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ‎ ‎ ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)  ‎  ‎ ![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png)‎ ‎   ![Code::Blocks](https://img.icons8.com/color/48/000000/code-blocks.png) 
+ #### 📌 Linguagens, frameworks, banco de dados e IDEs| Languages, frameworks, databases and IDEs 
+ ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) ‎ ‎![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) ‎ ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio.png) ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ‎ ‎ ![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png)‎ ‎ ![Code::Blocks](https://img.icons8.com/color/48/000000/code-blocks.png)
 
 ### 🌐 Conecte-se comigo | Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriellatccorrea/)
