@@ -4,7 +4,7 @@
 Fun fact: I love combining technology with creativity! I think it's good to challenge our brains and put important real-world ideas into our projects.</h3>
 
 <div align="center">
- <h2>📌 Languages, frameworks, databases and IDEs</h2>
+ <h2>🔷  Languages, frameworks, databases and IDEs</h2>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
@@ -15,13 +15,13 @@ Fun fact: I love combining technology with creativity! I think it's good to chal
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" />
   <img src="https://img.icons8.com/color/48/000000/code-blocks.png" alt="Code::Blocks" />
  
- <h2>📌Projects operating repositories:</h2>
+ <h2>🔷 Projects operating repositories:</h2>
   <ul>
    <p><a href="https://github.com/gabriellatcc/PhotoEvent">📷 Photo Event </a><br>
    <a href="https://github.com/gabriellatcc/Eventually">📆 Eventually</a><br>
    <a href="https://github.com/gabriellatcc/Motorize">🧑‍🔧 Motorize</a></p>
   </ul>
- <h2>📌 Exercises for study:</h2>
+ <h2>🔷 Exercises for study:</h2>
   <ul>
     <p><a href="https://github.com/gabriellatcc/Exercises-in-C">⚙️ C language</a><br>
     <a href="https://github.com/gabriellatcc/Exercises-in-Java">☕ Java language</a><br>
