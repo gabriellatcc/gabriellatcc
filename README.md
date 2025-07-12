@@ -1,36 +1,30 @@
-![Image](https://github.com/user-attachments/assets/3a0d80ac-a18a-4452-b2f8-71c028c053e8)
 
-### 👋 Hello! I'm Gabriella, at the beginning of my software development career, exploring the possibilities of the coding world. Welcome to my GitHub profile!
+<img src="https://github.com/user-attachments/assets/5e90aa73-2682-4b8e-8f05-fd90d7d0c9c1" alt="GIF animado de programação" align="right" width="300" style="margin-left: 20px;">
 
-Currently, I am eager to and actively investing in enhancing my Java development skills, including Swing, JavaFX, and Spring Boot. I’m deepening my knowledge in this language, while I continue to revisit and recall concepts from C and C# languages.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá+!+Gabriella+aqui;Bem+Vindo+ao+meu+Github&size=30)](https://git.io/typing-svg)
 
-**Fun fact:** I love combining technology with creativity! I think it's good to challenge our brains and put important real-world ideas into our projects.
+⚡ Estudo Backend utilizando Java e o ecossistema Spring.
 
-## 🔷 Languages, Frameworks, Databases and IDEs
+💪 Aplico meus conhecimentos na construção de APIs REST, me dedico a criar uma lógica de negócio visualmente eficiente e uma arquitetura de código que seja limpa e organizada. Gosto de mergulhar nos fundamentos do Java mais simples para entender de verdade como as coisas funcionam e não esquecer nada.
 
-![C](https://img.icons8.com/color/48/000000/c-programming.png)  ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)  ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)  ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)  ![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio.png)  ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)  ![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png)  ![Code::Blocks](https://img.icons8.com/color/48/000000/code-blocks.png)  
+<br clear="both">
 
-## 🔷 Projects operating repositories:
-
-- [📷 Photo Event](https://github.com/gabriellatcc/PhotoEvent)  
-- [📆 Eventually](https://github.com/gabriellatcc/Eventually)  
-- [🚙 Motorize - Sistema de Gerenciamento para Oficinas](https://github.com/gabriellatcc/Motorize)  
-
-## 🔷 Exercises for study:
-
-- [⚙️ C language](https://github.com/gabriellatcc/Exercises-in-C)  
-- [☕ Java language](https://github.com/gabriellatcc/Exercises-in-Java)  
-- [🟣 C# language](https://github.com/gabriellatcc/Classes-in-CSharp)  
-- [⚠️ Java study area with Spring Boot](https://github.com/gabriellatcc/EstudoJavaSpring)  
-
-## 🌐 Connect with me:
+💬 Se conecte comigo por aqui :D
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriellatccorrea/)  [![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriellatccorrea@gmail.com)  
 
+## Linguagens | IDEs | Banco de Dados | Frameworks | Ferramentas de Backend
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+<img width="41" height="41" alt="Image" src="https://github.com/user-attachments/assets/893c6e1a-2189-4b12-9eca-11fd8aede6a3" /> <img src="https://raw.githubusercontent.com/JetBrains/logos/master/web/intellij-idea/intellij-idea.svg" width="48" height="48" alt="IntelliJ IDEA"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="48" height="48" alt="Eclipse"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/><img width="41" height="41" alt="Image" src="https://github.com/user-attachments/assets/893c6e1a-2189-4b12-9eca-11fd8aede6a3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/><img width="41" height="41" alt="Image" src="https://github.com/user-attachments/assets/893c6e1a-2189-4b12-9eca-11fd8aede6a3" />  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/> <img width="41" height="41" alt="Image" src="https://github.com/user-attachments/assets/893c6e1a-2189-4b12-9eca-11fd8aede6a3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="48" height="48" alt="Insomnia"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
+
+## Projetos em Grupo:
+- [📆 Eventually - Sistema de Gerenciamento de Eventos](https://github.com/gabriellatcc/Eventually)  2025.1 - Fatec
+- [🚙 Motorize - Sistema de Gerenciamento para Oficinas](https://github.com/gabriellatcc/Motorize)  2025.1 -  Fatec
+
+
 ### 🐍 Watch my contributions been eaten by a snake:
-[![snake gif](https://github.com/gabriellatcc/gabriellatcc/blob/output/snake.svg)]
+![snake gif](https://github.com/gabriellatcc/gabriellatcc/blob/output/snake.svg)
 
 ### 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=gabriellatcc&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />  
-<img src="https://nirzak-streak-stats.vercel.app/?user=gabriellatcc&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=gabriellatcc&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />  <img src="https://nirzak-streak-stats.vercel.app/?user=gabriellatcc&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
