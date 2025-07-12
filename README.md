@@ -21,10 +21,8 @@
 - [📆 Eventually - Sistema de Gerenciamento de Eventos](https://github.com/gabriellatcc/Eventually)  2025.1 - Fatec
 - [🚙 Motorize - Sistema de Gerenciamento para Oficinas](https://github.com/gabriellatcc/Motorize)  2025.1 -  Fatec
 
-
-### 🐍 Watch my contributions been eaten by a snake:
-![snake gif](https://github.com/gabriellatcc/gabriellatcc/blob/output/snake.svg)
-
-### 📊 GitHub Stats:
+### Estatísticas do GitHub:
 
 <img src="https://github-readme-stats.vercel.app/api?username=gabriellatcc&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />  <img src="https://nirzak-streak-stats.vercel.app/?user=gabriellatcc&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+![snake gif](https://github.com/gabriellatcc/gabriellatcc/blob/output/snake.svg)
+
