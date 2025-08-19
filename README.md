@@ -17,9 +17,12 @@
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
 <img width="41" height="41" alt="Image" src="https://github.com/user-attachments/assets/893c6e1a-2189-4b12-9eca-11fd8aede6a3" /> <img src="https://raw.githubusercontent.com/JetBrains/logos/master/web/intellij-idea/intellij-idea.svg" width="48" height="48" alt="IntelliJ IDEA"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="48" height="48" alt="Eclipse"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/><img width="41" height="41" alt="Image" src="https://github.com/user-attachments/assets/893c6e1a-2189-4b12-9eca-11fd8aede6a3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/><img width="41" height="41" alt="Image" src="https://github.com/user-attachments/assets/893c6e1a-2189-4b12-9eca-11fd8aede6a3" />  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/> <img width="41" height="41" alt="Image" src="https://github.com/user-attachments/assets/893c6e1a-2189-4b12-9eca-11fd8aede6a3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="48" height="48" alt="Insomnia"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
 
-## Projetos em Grupo:
-- [📆 Eventually - Sistema de Gerenciamento de Eventos](https://github.com/gabriellatcc/Description-Projects/tree/main/Description-Eventually) 2025.1 - Fatec **CONCLUÍDO**
-- [🚙 Motorize - Sistema de Gerenciamento para Oficinas](https://github.com/gabriellatcc/Motorize)  2025.1 -  Fatec **CONCLUÍDO**
+## Projetos pessoais:
+- [🧱 Java Block Drop - Mini game de turnos com tetraminós](https://github.com/gabriellatcc/Java-Block-Drop/) 2025.08 - **EM DESENVOLVIMENTO**
+
+## Projetos em grupo:
+- [📆 Eventually - Sistema de Gerenciamento de Eventos](https://github.com/gabriellatcc/Description-Projects/tree/main/Description-Eventually) 2025.04 à 2025.07 - Fatec **CONCLUÍDO**
+- [🚙 Motorize - Sistema de Gerenciamento para Oficinas](https://github.com/gabriellatcc/Motorize)  2025.05 à 2025.07 -  Fatec **CONCLUÍDO**
 
 ### Estatísticas do GitHub:
 
