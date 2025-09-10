@@ -22,6 +22,7 @@
 - [🧱 Java Block Drop - Mini game de turnos com tetraminós](https://github.com/gabriellatcc/Java-Block-Drop/) 2025.08 - **EM DESENVOLVIMENTO**
 
 ## Projetos em grupo:
+- [🎲 Memomind - Jogo da memória com arduino](https://github.com/gabriellatcc/Memomind) 2025.08 - **EM DESENVOLVIMENTO**
 - [📆 Eventually - Sistema de Gerenciamento de Eventos](https://github.com/gabriellatcc/Description-Projects/tree/main/Description-Eventually) 2025.04 à 2025.07 - Fatec **CONCLUÍDO**
 - [🚙 Motorize - Sistema de Gerenciamento para Oficinas](https://github.com/gabriellatcc/Motorize)  2025.05 à 2025.07 -  Fatec **CONCLUÍDO**
 
