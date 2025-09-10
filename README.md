@@ -3,10 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá+!+Gabriella+aqui;Bem+Vindo+ao+meu+Github&size=30)](https://git.io/typing-svg)
 
-⚡ Estudo Backend utilizando Java e o ecossistema Spring.
+⚡ Estudo Backend utilizando Java, gosto de mergulhar nos fundamentos mais simples para entender de verdade como as coisas funcionam e não esquecer nada.
 
-💪 Aplico meus conhecimentos na construção de APIs REST, me dedico a criar uma lógica de negócio visualmente eficiente e uma arquitetura de código que seja limpa e organizada. Gosto de mergulhar nos fundamentos do Java mais simples para entender de verdade como as coisas funcionam e não esquecer nada.
-
+💪 Dedico certas horas de aprendizado na construção de APIs REST utilizando Spring Boot, me dedicando a criar uma lógica de negócio visualmente eficiente e uma arquitetura de código que seja limpa e organizada. 
 <br clear="both">
 
 💬 Se conecte comigo por aqui :D
