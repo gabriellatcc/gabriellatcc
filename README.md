@@ -1,21 +1,36 @@
-
-<img src="https://github.com/user-attachments/assets/5e90aa73-2682-4b8e-8f05-fd90d7d0c9c1" alt="GIF animado de programação" align="right" width="300" style="margin-left: 20px;">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá+!+Gabriella+aqui;Bem+Vindo+ao+meu+Github&size=30)](https://git.io/typing-svg)
 
-⚡ Estudo Backend utilizando Java, gosto de mergulhar nos fundamentos mais simples para entender de verdade como as coisas funcionam e não esquecer nada.
+<img src="https://github-readme-stats.vercel.app/api?username=gabriellatcc&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" alt="GIF animado de programação" align="right" width="390" style="margin-left: 80px;">
 
-💪 Dedico certas horas de aprendizado na construção de APIs REST utilizando Spring Boot, me dedicando a criar uma lógica de negócio visualmente eficiente e uma arquitetura de código que seja limpa e organizada. 
-<br clear="both">
+<p>⚡ Estudo Backend utilizando Java, gosto de mergulhar nos fundamentos mais simples para entender de verdade como as coisas funcionam e não esquecer nada.<br>
+💪 Dedico certas horas de aprendizado na construção de jogos em linguagem Java, me dedicando a criar uma lógica de negócio visualmente eficiente e uma arquitetura de código que seja limpa e organizada. <br>
+🔍 Busco me integrar em uma equipe onde possa usar meus conhecimentos para contribuir com projetos mais robustos a longo prazo.</p><br>
 
-💬 Se conecte comigo por aqui :D
+<div style="text-align: center;">
+ <h2>Tecnologias</h2>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellatcc&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="GIF animado de programação" align="right" width="290" style="margin-left: 80px;">
+ <img align="center" alt="java" src="https://img.shields.io/badge/Java-orange.svg?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAxxJREFUWIXF112IlGUUB/Dfrlumsju2gboRRRsZGJGkJGhYF0VEFBaBIAVFYRdB3ZVIdCOoXUiI6IUIgnhjhVIUEllREEUQUtGHBZLaF+ZX6brmTjtdnDPOu9OOOzPs6B9e3neeeZ/zP895zvmf52XyMLedSd2T6MAzk2irZQzgNLouB3kP3sOJy0E+FW+igu2XmnwOPk3yv3BD4b8S7sL0TpHfiV+SvIxlmIEX8AW+w6JOkT+Ms0n+L57Gffg1x3bo4MqX4p8C+UoswTmM4pVOEVfxfZJX8FKOVfNgR6fJSwXyD3LsCpEDFTzVjtFWlPBv/J7Pu/Jexpl8frQdB6a0+H63SLifsTfHqiV3Mz7E4XYcaRY9+ETUfSnHpqnlxu5OklfRj/14uTDyUDrwWavG2umGJ3AP7sCsHDuY99fbsNcQs/Cc0Ph9WJ2kVad7cFs+v4a1xnbDbqzA1/gWT4xH0qh9zhH7OjN/v4EtYvVnheh0iWbUjxsxlPOuxQg2iAoZwMcYFIeWarQuiquwUyhcpcmrjJ+wUfSFItbnO8uajUAV00WYF6b3R0RoR0QkTuGoaEyHcL6Bnfdxr9jC/RNw/g8rRHi3qSVdEV24Ho+IY1lP3f/3iy37qFXiKtalgUre/8SP+EFEpH6b3hFbCPNF3uzDNeMZb/YMNw8P4Hax2pJY6TkcF8r4jWhMX6UjC0WrfltNNdvGoFDArWqrk04M4jFsEns8KRjA3UJwevGqsdl+XCRg2djwj4hcqEfTp+XZ4oQ7miQbxOpKeFHs5WFR38M4JkRmD1bh1gZ23xWaMSHWqK1mTbNeXwRXiuiVRVQnxC34TS3j9wo5XoSrm5g/VSTscmwW54chPFt4p6+4Yby7KeWE5aKMig3rjAj7aVEBRCL2poP9aXMEX4oK2I4/0rlVQuIvNK2JkqMkSm8urhO1PFOEdkoSDeOkmiIeEHkxnDZm43E8j7fyfgH1qlWPISE8fbnygyIJTzV4v1d8oDyIBaKSFggVfNI4atjKx+QAFguBuUlEo09EaUZeoyISR0QUPhfHtKONjP4HxJ7K18iRRpEAAAAASUVORK5CYII=" width="74" height="40" />
+ <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" width="68" height="40" />
+ <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" width="90" height="40" />
+ <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" width="54" height="40" />
+ <img align="center" alt="vscode" src="https://camo.githubusercontent.com/3e78414c94a71a544ae82fbe7a2e9d6f0863521d15fde32d2c299cabfbcb9c23/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" />
+ <img align="center" alt="intellij" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" width="135" height="40" />
+ <img align="center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" width="93" height="40" />
+ <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" width="95" height="40" />
+ <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" width="97" height="40" />
+ <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" width="97" height="40" />
+ <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" width="95" height="40" />
+ <img align="center" alt="insomnia" src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" width="109" height="40" />
+ <img align="center" alt="linuxmint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat-square&logo=Linux%20Mint&logoColor=white" width="117.5" height="40" />
+ <img align="center" alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" width="60" height="39" />
+</div>
+<br>
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriellatccorrea/)  [![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriellatccorrea@gmail.com)  
-
-## Linguagens | IDEs | Banco de Dados | Frameworks | Ferramentas de Backend
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/> <img width="60" height="40" alt="image" src="https://github.com/user-attachments/assets/f2171eff-90dc-46a4-956a-4c04a985df54" /> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-<img width="41" height="41" alt="Image" src="https://github.com/user-attachments/assets/893c6e1a-2189-4b12-9eca-11fd8aede6a3" /> <img src="https://raw.githubusercontent.com/JetBrains/logos/master/web/intellij-idea/intellij-idea.svg" width="48" height="48" alt="IntelliJ IDEA"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="48" height="48" alt="Eclipse"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/><img width="41" height="41" alt="Image" src="https://github.com/user-attachments/assets/893c6e1a-2189-4b12-9eca-11fd8aede6a3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/><img width="41" height="41" alt="Image" src="https://github.com/user-attachments/assets/893c6e1a-2189-4b12-9eca-11fd8aede6a3" />  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/> <img width="55" height="50" alt="image" src="https://github.com/user-attachments/assets/91b322fe-00df-4910-87c4-9b807aa24834" />
- <img width="41" height="41" alt="Image" src="https://github.com/user-attachments/assets/893c6e1a-2189-4b12-9eca-11fd8aede6a3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="48" height="48" alt="Insomnia"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
+<h3> Se conecte comigo por aqui 💬 :D </h3>
+<a href="mailto:gabriellatccorrea@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a><a href="https://www.linkedin.com/in/gabriellatccorrea" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## Projetos pessoais:
 - [🧱 Java Block Drop - Mini game de turnos com tetraminós](https://github.com/gabriellatcc/Java-Block-Drop/) 2025.08 - **EM DESENVOLVIMENTO**
@@ -25,8 +40,7 @@
 - [📆 Eventually - Sistema de Gerenciamento de Eventos](https://github.com/gabriellatcc/Description-Projects/tree/main/Description-Eventually) 2025.04 à 2025.07 - Fatec **CONCLUÍDO**
 - [🚙 Motorize - Sistema de Gerenciamento para Oficinas](https://github.com/gabriellatcc/Motorize)  2025.05 à 2025.07 -  Fatec **CONCLUÍDO**
 
-### Estatísticas do GitHub:
+### Cobrinha dos últimos commits:
 
-<img src="https://github-readme-stats.vercel.app/api?username=gabriellatcc&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />  <img src="https://nirzak-streak-stats.vercel.app/?user=gabriellatcc&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 ![snake gif](https://github.com/gabriellatcc/gabriellatcc/blob/output/snake.svg)
 
