@@ -33,7 +33,7 @@
 </a><a href="https://www.linkedin.com/in/gabriellatccorrea" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## Projetos pessoais:
-- [🧱 Java Block Drop - Mini game de turnos com tetraminós](https://github.com/gabriellatcc/Java-Block-Drop/) 2025.08 - **EM DESENVOLVIMENTO**
+- [🧱 Java Block Drop - Mini game de turnos com tetraminós](https://github.com/gabriellatcc/Java-Block-Drop/) 2025.08 - 2025.09  **CONCLUÍDO**
 
 ## Projetos em grupo:
 - [🎲 Memomind - Jogo da memória com arduino](https://github.com/gabriellatcc/Memomind) 2025.08 - **EM DESENVOLVIMENTO**
