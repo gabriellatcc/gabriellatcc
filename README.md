@@ -41,7 +41,7 @@
     <a href="https://github.com/gabriellatcc/Java-Block-Drop/">🧱 Java Block Drop - Mini game de turnos com tetraminós</a> 2025.08 - 2025.09 <strong>CONCLUÍDO</strong>
   </li>
 </ul>
-<strong>OBS</strong>: coloco ênfase aqui no foco na estrutura e estudo os métodos padrões da biblioteca JAVA
+<strong>OBS</strong>: coloco ênfase aqui na aprendizagem na revisão da estrutura e na utilização dos métodos padrões da biblioteca JAVA
 
 <h2>Projetos em grupo:</h2>
 <ul>
