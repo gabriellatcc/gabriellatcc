@@ -32,15 +32,30 @@
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a><a href="https://www.linkedin.com/in/gabriellatccorrea" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-## Projetos pessoais:
-- [🧱 Java Block Drop - Mini game de turnos com tetraminós](https://github.com/gabriellatcc/Java-Block-Drop/) 2025.08 - 2025.09  **CONCLUÍDO**
+<h2>Projetos pessoais</h2>
+<ul>
+  <li>
+    <a href="https://github.com/gabriellatcc/Java-Solitaire">🃏 Java Solitaire - Jogo de turnos com cartas</a> 2025.09 - <strong>EM DESENVOLVIMENTO</strong>
+  </li>
+  <li>
+    <a href="https://github.com/gabriellatcc/Java-Block-Drop/">🧱 Java Block Drop - Mini game de turnos com tetraminós</a> 2025.08 - 2025.09 <strong>CONCLUÍDO</strong>
+  </li>
+</ul>
+<strong>OBS</strong>: coloco ênfase aqui no foco na estrutura e estudo os métodos padrões da biblioteca JAVA
 
-## Projetos em grupo:
-- [🎲 Memomind - Jogo da memória com arduino](https://github.com/gabriellatcc/Memomind) 2025.08 - **EM DESENVOLVIMENTO**
-- [📆 Eventually - Sistema de Gerenciamento de Eventos](https://github.com/gabriellatcc/Description-Projects/tree/main/Description-Eventually) 2025.04 à 2025.07 - Fatec **CONCLUÍDO**
-- [🚙 Motorize - Sistema de Gerenciamento para Oficinas](https://github.com/gabriellatcc/Motorize)  2025.05 à 2025.07 -  Fatec **CONCLUÍDO**
+<h2>Projetos em grupo:</h2>
+<ul>
+ <li>
+  <a href="https://github.com/gabriellatcc/Memomind">🎲 Memomind - Jogo da memória com arduino</a> 2025.08 - <strong>EM DESENVOLVIMENTO</strong>
+ </li> 
+ <li>
+  <a href="https://github.com/gabriellatcc/Description-Projects/tree/main/Description-Eventually">📆 Eventually - Sistema de Gerenciamento de Eventos </a>2025.04 à 2025.07 - Fatec <strong>CONCLUÍDO</strong>
+ </li>
+  <li>
+  <a href="https://github.com/gabriellatcc/Motorize">🚙 Motorize - Sistema de Gerenciamento para Oficinas </a>2025.05 à 2025.07 -  Fatec <strong>CONCLUÍDO</strong>
+ </li>
+</ul>
 
-### Cobrinha dos últimos commits:
-
-![snake gif](https://github.com/gabriellatcc/gabriellatcc/blob/output/snake.svg)
+<h3>Cobrinha dos últimos commits</h3>
+<img src="https://github.com/gabriellatcc/gabriellatcc/blob/output/snake.svg" alt="snake gif">
 
