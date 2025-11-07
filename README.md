@@ -35,10 +35,10 @@
 <h2>Projetos pessoais</h2>
 <ul>
   <li>
-    <a href="https://github.com/gabriellatcc/Java-Solitaire">🃏 Java Solitaire - Jogo de turnos com cartas</a> 2025.09 - <strong>EM DESENVOLVIMENTO</strong>
+    <a href="https://github.com/gabriellatcc/Java-Solitaire">🃏 Java Solitaire - Jogo de turnos com cartas (via terminal)</a> 2025.09 - <strong>EM DESENVOLVIMENTO</strong>
   </li>
   <li>
-    <a href="https://github.com/gabriellatcc/Java-Block-Drop/">🧱 Java Block Drop - Mini game de turnos com tetraminós</a> 2025.08 - 2025.09 <strong>CONCLUÍDO</strong>
+    <a href="https://github.com/gabriellatcc/Java-Block-Drop/">🧱 Java Block Drop - Mini game de turnos com tetraminós (via terminal) </a> 2025.08 - 2025.09 <strong>CONCLUÍDO</strong>
   </li>
 </ul>
 <strong>OBS</strong>: coloco ênfase aqui na aprendizagem na revisão da estrutura e na utilização dos métodos padrões da biblioteca JAVA
