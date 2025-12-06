@@ -34,10 +34,16 @@
 <h2>Projetos pessoais</h2>
 <ul>
   <li>
-    <a href="https://github.com/gabriellatcc/Java-Solitaire">🃏 Java Solitaire - Jogo de turnos com cartas (via terminal)</a> 2025.09 - <strong>EM DESENVOLVIMENTO</strong>
+    <a href="https://github.com/gabriellatcc/HeroesTeamUp">🦸 HEROES TEAM UP - Uma aplicação para criar times com personagens da API MARVEL</a> 2025.12 - <strong>EM DESENVOLVIMENTO</strong><br>
+   Tecnologias: LARAVEL + NEXTJS + MYSQL
   </li>
   <li>
-    <a href="https://github.com/gabriellatcc/Java-Block-Drop/">🧱 Java Block Drop - Mini game de turnos com tetraminós (via terminal) </a> 2025.08 - 2025.09 <strong>CONCLUÍDO</strong>
+    <a href="https://github.com/gabriellatcc/Java-Solitaire">🃏 Java Solitaire - Jogo de turnos com cartas (via terminal)</a> 2025.09 - <strong>EM DESENVOLVIMENTO</strong><br>
+   Tecnologias: JAVA
+  </li>
+  <li>
+    <a href="https://github.com/gabriellatcc/Java-Block-Drop/">🧱 Java Block Drop - Mini game de turnos com tetraminós (via terminal) </a> 2025.08 - 2025.09 <strong>CONCLUÍDO</strong><br>
+      Tecnologias: JAVA
   </li>
 </ul>
 <strong>OBS</strong>: coloco ênfase aqui na aprendizagem na revisão da estrutura e na utilização dos métodos padrões da biblioteca JAVA
@@ -45,13 +51,16 @@
 <h2>Projetos em grupo:</h2>
 <ul>
  <li>
-  <a href="https://github.com/gabriellatcc/Memomind">🎲 Memomind - Jogo da memória com arduino</a> 2025.08 - <strong>EM DESENVOLVIMENTO</strong>
+  <a href="https://github.com/gabriellatcc/Memomind">🎲 Memomind - Jogo da memória com arduino</a> 2025.08 à 2025.11 - Fatec <strong>CONLUÍDO</strong><br>
+   Tecnologias: LARAVEL + NODEJS + PHP + CSS + HTML + SH + MYSQL + <code>C++</code>
  </li> 
  <li>
-  <a href="https://github.com/gabriellatcc/Description-Projects/tree/main/Description-Eventually">📆 Eventually - Sistema de Gerenciamento de Eventos </a>2025.04 à 2025.07 - Fatec <strong>CONCLUÍDO</strong>
+  <a href="https://github.com/gabriellatcc/Description-Projects/tree/main/Description-Eventually">📆 Eventually - Sistema de Gerenciamento de Eventos </a>2025.04 à 2025.07 - Fatec <strong>CONCLUÍDO</strong><br>
+     Tecnologias: JAVA + CSS + JAVAFX + MAVEN
  </li>
   <li>
-  <a href="https://github.com/gabriellatcc/Motorize">🚙 Motorize - Sistema de Gerenciamento para Oficinas </a>2025.05 à 2025.07 -  Fatec <strong>CONCLUÍDO</strong>
+  <a href="https://github.com/gabriellatcc/Motorize">🚙 Motorize - Sistema de Gerenciamento para Oficinas </a>2025.05 à 2025.07 -  Fatec <strong> CONCLUÍDO</strong><br>
+      Tecnologias: C# + MYSQL
  </li>
 </ul>
 
