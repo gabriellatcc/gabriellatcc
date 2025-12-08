@@ -34,7 +34,7 @@
 <h2>Projetos pessoais</h2>
 <ul>
   <li>
-    <a href="https://github.com/gabriellatcc/HeroesTeamUp">🔴🧢 POKETEAM UP - Uma aplicação para criar times com personagens da API Pokemon</a> 2025.12 - <strong>EM DESENVOLVIMENTO</strong><br>
+    <a href="https://github.com/gabriellatcc/PokeTeamUp">🔴🧢 POKETEAM UP - Uma aplicação para criar times com personagens da API Pokemon</a> 2025.12 - <strong>EM DESENVOLVIMENTO</strong><br>
    Tecnologias: LARAVEL + NEXTJS + MYSQL
   </li>
   <li>
