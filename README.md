@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá+!+Gabriella+aqui;Bem+Vindo+ao+meu+Github&size=30)](https://git.io/typing-svg)
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=gabriellatcc&theme=great-gatsby&card_width=390" alt="GitHub Streak" align="right" style="margin-left: 80px;">
-
 <p>⚡ Estudo Backend utilizando Java, gosto de mergulhar nos fundamentos mais simples para entender de verdade como as coisas funcionam e não esquecer nada.<br>
 💪 Dedico certas horas de aprendizado na construção de jogos em linguagem Java, me dedicando a criar uma lógica de negócio visualmente eficiente e uma arquitetura de código que seja limpa e organizada. <br>
 🔍 Busco me integrar em uma equipe onde possa usar meus conhecimentos para contribuir com projetos mais robustos a longo prazo.</p><br>
