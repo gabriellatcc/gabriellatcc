@@ -35,7 +35,11 @@
 <h2>Projetos pessoais</h2>
 <ul>
   <li>
-    <a href="https://github.com/gabriellatcc/PokeTeamUp">🔴🧢 POKETEAM UP - Uma aplicação para criar times com personagens da API Pokemon</a> 2025.12 - <strong>EM DESENVOLVIMENTO</strong><br>
+    <a href="https://github.com/gabriellatcc/Calculadora-Vite-React">🖥️ Calculadora - Calculadora simples com frontend elegante</a> 2026.01 - <strong> EM DESENVOLVIMENTO </strong><br>
+   Tecnologias: VITE
+  </li>
+  <li>
+    <a href="https://github.com/gabriellatcc/PokeTeamUp">🔴🧢 POKETEAM UP - Uma aplicação para criar times com personagens da API Pokemon</a> 2025.12 - <strong> CONCLUÍDO </strong><br>
    Tecnologias: LARAVEL + NEXTJS + MYSQL
   </li>
   <li>
@@ -56,7 +60,7 @@
    Tecnologias: LARAVEL + NODEJS + PHP + CSS + HTML + SH + MYSQL + <code>C++</code>
  </li> 
  <li>
-  <a href="https://github.com/gabriellatcc/Description-Projects/tree/main/Description-Eventually">📆 Eventually - Sistema de Gerenciamento de Eventos </a>2025.04 à 2025.07 - Fatec <strong>CONCLUÍDO</strong><br>
+  <a href="https://github.com/gabriellatcc/Eventually">📆 Eventually - Sistema de Gerenciamento de Eventos </a>2025.04 à 2025.07 - Fatec <strong>CONCLUÍDO</strong><br>
      Tecnologias: JAVA + CSS + JAVAFX + MAVEN
  </li>
   <li>
