@@ -17,6 +17,7 @@ Nas horas vagas trabalho em projetos utilizando o React, me dedico em criar a co
  <img align="center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" width="93" height="40" />
  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" width="95" height="40" />
  <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" width="97" height="40" />
+<img align="center" alt="wordpress" src="https://img.shields.io/badge/WordPress-%23117EB9.svg?style=flat-square&logo=wordpress&logoColor=white" width="97 height="50" />
  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" width="97" height="40" />
  <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" width="95" height="40" />
  <img align="center" alt="insomnia" src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" width="109" height="40" />
