@@ -51,7 +51,7 @@ Nas horas vagas trabalho em projetos utilizando o React, me dedico em criar a co
       Tecnologias: JAVA
   </li>
 </ul>
-<strong>OBS</strong>: coloco ênfase aqui na aprendizagem na revisão da estrutura e na utilização dos métodos padrões da biblioteca JAVA
+<strong>OBS</strong>: coloco ênfase aqui na aprendizagem na revisão da estrutura e na utilização dos métodos padrões dos respectivos frameworks
 
 <h2>Projetos em grupo:</h2>
 <ul>
