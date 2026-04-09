@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá+!+Gabriella+aqui;Bem+Vindo+ao+meu+Github&size=30)](https://git.io/typing-svg)
 
-<p>⚡ Estudo Backend utilizando Java, gosto de mergulhar nos fundamentos mais simples para entender de verdade como as coisas funcionam e não esquecer nada.<br>
-💪 Dedico certas horas de aprendizado na construção de jogos em linguagem Java, me dedicando a criar uma lógica de negócio visualmente eficiente e uma arquitetura de código que seja limpa e organizada. <br>
-🔍 Busco me integrar em uma equipe onde possa usar meus conhecimentos para contribuir com projetos mais robustos a longo prazo.</p><br>
+<p>⚡ Estudo Backend utilizando Laravel para entender os fundamentos mais simples do PHP e como as coisas funcionam.<br>
+Nas horas vagas trabalho em projetos utilizando o React, me dedico em criar a comunicação com backend com trativas seguindo a documentação do Laravel, trazer eficiência e uma arquitetura de código limpa e organizada. <br>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40"/>
@@ -35,8 +34,8 @@
 <h2>Projetos pessoais</h2>
 <ul>
   <li>
-    <a href="https://github.com/gabriellatcc/Calculadora-Vite-React">🖥️ Calculadora - Calculadora simples com frontend elegante</a> 2026.01 - <strong> EM DESENVOLVIMENTO </strong><br>
-   Tecnologias: VITE
+    <a href="https://github.com/gabriellatcc/metricnotes-web">📓 MetricNotes - Site para Autogestão</a> 2026.01 - <strong> EM DESENVOLVIMENTO </strong><br>
+   Tecnologias: VITE + LARAVEL + REACT + MYSQL
   </li>
   <li>
     <a href="https://github.com/gabriellatcc/PokeTeamUp">🔴🧢 POKETEAM UP - Uma aplicação para criar times com personagens da API Pokemon</a> 2025.12 - <strong> CONCLUÍDO </strong><br>
