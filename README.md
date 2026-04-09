@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá+!+Gabriella+aqui;Bem+Vindo+ao+meu+Github&size=30)](https://git.io/typing-svg)
 
-<p>Estudo Backend utilizando Laravel para entender os fundamentos mais simples do PHP e como as coisas funcionam.<br>
+<p>Estudo Backend utilizando Laravel para entender os fundamentos mais simples e como as coisas funcionam no PHP.<br>
 Nas horas vagas trabalho em projetos utilizando o React, me dedico em criar a comunicação com backend com trativas seguindo a documentação do Laravel, trazer eficiência e uma arquitetura de código limpa e organizada. <br>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
