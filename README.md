@@ -49,7 +49,7 @@ No Frontend, trabalho com React. Gosto de manter a estrutura de código limpa, o
     Tecnologias: REACT + TYPESCRIPT + VITE + TAILWIND | API: FASTIFY + PRISMA + POSTGRESQL + DOCKER
   </li>
   <li>
-    <a href="https://casamento-bruna-alexandre-git-main-gabriella-correa-s-projects.vercel.app/" target="_blank"><strong>Casamento Bruna & Alexandre</strong></a> - <em>Repositório Privado</em> | desde maio 2026 - <strong>EM PRODUÇÃO</strong> <br>
+    <a href="https://casamento-bruna-alexandre.vercel.app/" target="_blank"><strong>Casamento Bruna & Alexandre</strong></a> - <em>Repositório Privado</em> | desde maio 2026 - <strong>EM PRODUÇÃO</strong> <br>
     Tecnologias: ANGULAR 18 + LARAVEL 11 + MYSQL
   </li>
 </ul>
