@@ -55,11 +55,11 @@ No frontend, crio interfaces dinâmicas e modulares com React. Meu foco principa
 <h2>Projetos pessoais</h2>
 <ul>
   <li>
-    <a href="https://github.com/gabriellatcc/metricnotes-web">MetricNotes - Site para Autogestão</a> 2026.01 - <strong> EM DESENVOLVIMENTO </strong><br>
+    <a href="https://github.com/gabriellatcc/metricnotes-web">MetricNotes - Site para Autogestão</a> 2026.04 - 2026.06 <strong> CONCLUÍDO </strong><br>
    Tecnologias: VITE + LARAVEL + REACT + MYSQL
   </li>
   <li>
-    <a href="https://github.com/gabriellatcc/PokeTeamUp"> POKETEAM UP - Uma aplicação para criar times com personagens da API Pokemon</a> 2025.12 - <strong> CONCLUÍDO </strong><br>
+    <a href="https://github.com/gabriellatcc/PokeTeamUp"> POKETEAM UP - Uma aplicação para criar times com personagens da API Pokemon</a> 2025.12 - 2026.01 <strong> CONCLUÍDO </strong><br>
    Tecnologias: LARAVEL + NEXTJS + MYSQL
   </li>
   <li>
