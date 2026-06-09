@@ -36,8 +36,11 @@ No frontend, crio interfaces dinâmicas e modulares com React. Meu foco principa
   <img alt="prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" height="44" />
   <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="44" />
   <img alt="insomnia" src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" height="44" />
-  <img alt="windows11" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat-square&logo=Windows%2011&logoColor=white" height="44" />
   <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" height="44" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
 </div>
 
 <h2>Projetos Freelance</h2>
