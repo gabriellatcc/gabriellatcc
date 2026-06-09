@@ -28,11 +28,6 @@ No Frontend, trabalho com React. Gosto de manter a estrutura de código limpa, o
   <img alt="windows11" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat-square&logo=Windows%2011&logoColor=white" height="44" />
   <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" height="44" />
 </div>
-<br>
-<a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="44" height="44"/>
-</a>
-<br>
 
 <h3> Se conecte comigo por aqui :D </h3>
 <a href="mailto:gabriellatccorrea@gmail.com">
