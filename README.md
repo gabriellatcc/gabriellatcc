@@ -90,6 +90,3 @@ No Frontend, trabalho com React. Gosto de manter a estrutura de código limpa, o
       Tecnologias: C# + MYSQL
  </li>
 </ul>
-
-<h3>Cobrinha dos últimos commits</h3>
-<img src="https://github.com/gabriellatcc/gabriellatcc/blob/output/snake.svg" alt="snake gif">
