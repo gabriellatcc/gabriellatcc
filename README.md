@@ -2,17 +2,18 @@
 
 ---
 
-`Desenvolvedora Web`
+`Software Web Developer`
 
-<p>Desenvolvedora com foco em Backend usando PHP e Laravel, atualmente estudando e construindo APIs com Node.js e TypeScript.<br>
-No Frontend, trabalho com React. Gosto de manter a estrutura de código limpa, organizada e focada na integração direta com o backend, sem complicação.</p>
-
+<p>Atuo no desenvolvimento de software web construindo soluções completas, do backend ao frontend. Desenvolvo sistemas robustos com PHP e Laravel, além de criar e documentar APIs escaláveis utilizando Node.js, TypeScript e Swagger.<br>
+No frontend, crio interfaces dinâmicas e modulares com React. Meu foco principal é entregar código limpo, bem estruturado e de fácil manutenção, garantindo integrações eficientes e arquiteturas sem complexidade desnecessária.</p>
 <a href="mailto:gabriellatccorrea@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;<a href="https://www.linkedin.com/in/gabriellatccorrea" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-ed214d?style=for-the-badge&logo=gmail&logoColor=white" height="50" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gabriellatccorrea" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-%F0%9F%94%97_LinkedIn-02afe8?style=for-the-badge&logoColor=white" height="50" />
 </a>
 
+---
 ---
 <h2>Tecnologias</h2>
 
