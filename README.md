@@ -1,9 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá+!+Gabriella+aqui;Bem+Vindo+ao+meu+Github&size=30)](https://git.io/typing-svg)
 
+---
+
+`Desenvolvedora Web`
+
 <p>Desenvolvedora com foco em Backend usando PHP e Laravel, atualmente estudando e construindo APIs com Node.js e TypeScript.<br>
-No Frontend, trabalho com React. Gosto de manter a estrutura de código limpa, organizada e focada na integração direta com o backend, sem complicação.<br>
+No Frontend, trabalho com React. Gosto de manter a estrutura de código limpa, organizada e focada na integração direta com o backend, sem complicação.</p>
 
+<a href="mailto:gabriellatccorrea@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;<a href="https://www.linkedin.com/in/gabriellatccorrea" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
+---
 <h2>Tecnologias</h2>
 
 <div align="center">
@@ -28,14 +38,6 @@ No Frontend, trabalho com React. Gosto de manter a estrutura de código limpa, o
   <img alt="windows11" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat-square&logo=Windows%2011&logoColor=white" height="44" />
   <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" height="44" />
 </div>
-
-<h3> Se conecte comigo por aqui :D </h3>
-<a href="mailto:gabriellatccorrea@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/gabriellatccorrea" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a> 
 
 <h2>Projetos Freelance</h2>
 <ul>
