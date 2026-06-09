@@ -14,34 +14,23 @@ No frontend, crio interfaces dinâmicas e modulares com React. Meu foco principa
 </a>
 
 ---
----
-<h2>Tecnologias</h2>
+## Tecnologias
 
-<div align="center">
-  <img alt="java" src="https://img.shields.io/badge/Java-orange.svg?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAxxJREFUWIXF112IlGUUB/Dfrlumsju2gboRRRsZGJGkJGhYF0VEFBaBIAVFYRdB3ZVIdCOoXUiI6IUIgnhjhVIUEllREEUQUtGHBZLaF+ZX6brmTjtdnDPOu9OOOzPs6B9e3neeeZ/zP895zvmf52XyMLedSd2T6MAzk2irZQzgNLouB3kP3sOJy0E+FW+igu2XmnwOPk3yv3BD4b8S7sL0TpHfiV+SvIxlmIEX8AW+w6JOkT+Ms0n+L57Gffg1x3bo4MqX4p8C+UoswTmM4pVOEVfxfZJX8FKOVfNgR6fJSwXyD3LsCpEDFTzVjtFWlPBv/J7Pu/Jexpl8frQdB6a0+H63SLifsTfHqiV3Mz7E4XYcaRY9+ETUfSnHpqnlxu5OklfRj/14uTDyUDrwWavG2umGJ3AP7sCsHDuY99fbsNcQs/Cc0Ph9WJ2kVad7cFs+v4a1xnbDbqzA1/gWT4xH0qh9zhH7OjN/v4EtYvVnheh0iWbUjxsxlPOuxQg2iAoZwMcYFIeWarQuiquwUyhcpcmrjJ+wUfSFItbnO8uajUAV00WYF6b3R0RoR0QkTuGoaEyHcL6Bnfdxr9jC/RNw/g8rRHi3qSVdEV24Ho+IY1lP3f/3iy37qFXiKtalgUre/8SP+EFEpH6b3hFbCPNF3uzDNeMZb/YMNw8P4Hax2pJY6TkcF8r4jWhMX6UjC0WrfltNNdvGoFDArWqrk04M4jFsEns8KRjA3UJwevGqsdl+XCRg2djwj4hcqEfTp+XZ4oQ7miQbxOpKeFHs5WFR38M4JkRmD1bh1gZ23xWaMSHWqK1mTbNeXwRXiuiVRVQnxC34TS3j9wo5XoSrm5g/VSTscmwW54chPFt4p6+4Yby7KeWE5aKMig3rjAj7aVEBRCL2poP9aXMEX4oK2I4/0rlVQuIvNK2JkqMkSm8urhO1PFOEdkoSDeOkmiIeEHkxnDZm43E8j7fyfgH1qlWPISE8fbnygyIJTzV4v1d8oDyIBaKSFggVfNI4atjKx+QAFguBuUlEo09EaUZeoyISR0QUPhfHtKONjP4HxJ7K18iRRpEAAAAASUVORK5CYII=" height="44" />
-  <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" height="44" />
-  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="44" />
-  <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="44" />
-  <img alt="vscode" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" height="44" />
-  <img alt="intellij" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" height="44" />
-  <img alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" height="44" />
-  <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" height="44" />
-  <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" height="44" />
-  <img alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" height="44" />
-  <img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" height="44" />
-  <img alt="wordpress" src="https://img.shields.io/badge/WordPress-%23117EB9.svg?style=flat-square&logo=wordpress&logoColor=white" height="44" />
-  <img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" height="44" />
-  <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" height="44" />
-  <img alt="fastify" src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" height="44" />
-  <img alt="prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" height="44" />
-  <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="44" />
-  <img alt="insomnia" src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" height="44" />
-  <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" height="44" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
-</div>
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <h2>Projetos Freelance</h2>
 <ul>
