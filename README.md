@@ -3,9 +3,8 @@
 ---
 
 `Software Web Developer`
-
-<p>Atuo no desenvolvimento de software web construindo soluções completas, do backend ao frontend. Desenvolvo sistemas robustos com PHP e Laravel, além de criar e documentar APIs escaláveis utilizando Node.js, TypeScript e Swagger.<br>
-No frontend, crio interfaces dinâmicas e modulares com React. Meu foco principal é entregar código limpo, bem estruturado e de fácil manutenção, garantindo integrações eficientes e arquiteturas sem complexidade desnecessária.</p>
+<p>I work in web software development, building complete solutions from backend to frontend. I develop robust systems with PHP and Laravel, as well as create and document scalable APIs using Node.js, TypeScript, and Swagger.<br>
+On the frontend, I create dynamic and modular interfaces with React. My main focus is to deliver clean, well-structured, and easily maintainable code, ensuring efficient integrations and architectures without unnecessary complexity.</p>
 <a href="mailto:gabriellatccorrea@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-ed214d?style=for-the-badge&logo=gmail&logoColor=white" height="50" />
 </a>&nbsp;&nbsp;
@@ -32,51 +31,50 @@ No frontend, crio interfaces dinâmicas e modulares com React. Meu foco principa
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<h2>Projetos Freelance</h2>
+<h2>Freelance Projects</h2>
 <ul>
   <li>
-    <a href="https://www.drechsler.net.br/" target="_blank"><strong>Drechsler</strong></a> - <em>Repositório Privado</em> | desde maio 2026 - <strong>EM PRODUÇÃO</strong> <br>
-    Tecnologias: REACT + TYPESCRIPT + VITE + TAILWIND | API: FASTIFY + PRISMA + POSTGRESQL + DOCKER
+    <a href="https://www.drechsler.net.br/" target="_blank"><strong>Drechsler</strong></a> - <em> Repositório Privado </em> | since may 2026 - <strong>PRODUCTION</strong> <br>
+    Tech Stack: REACT + TYPESCRIPT + VITE + TAILWIND | API: FASTIFY + PRISMA + POSTGRESQL + DOCKER
   </li>
   <li>
-    <a href="https://casamento-bruna-alexandre.vercel.app/" target="_blank"><strong>Casamento Bruna & Alexandre</strong></a> - <em>Repositório Privado</em> | desde maio 2026 - <strong>EM PRODUÇÃO</strong> <br>
-    Tecnologias: ANGULAR 18 + LARAVEL 11 + MYSQL
+    <a href="https://casamento-bruna-alexandre.vercel.app/" target="_blank"><strong>Bruna and Alexandre's Wedding</strong></a> - <em> Repositório Privado </em> | desde maio 2026 - <strong>PRODUCTION</strong> <br>
+    Tech Stack: ANGULAR 18 + LARAVEL 11 + MYSQL
   </li>
 </ul>
 
-<h2>Projetos pessoais</h2>
+<h2>Personal Projects</h2>
 <ul>
   <li>
-    <a href="https://github.com/gabriellatcc/metricnotes-web">MetricNotes - Site para Autogestão</a> 2026.04 - 2026.06 <strong> CONCLUÍDO </strong><br>
-   Tecnologias: VITE + LARAVEL + REACT + MYSQL
+    <a href="https://github.com/gabriellatcc/metricnotes-web">MetricNotes - Website for Self-Management</a> 2026.04 - 2026.06 <strong> COMPLETED </strong><br>
+    Tech Stack: VITE + LARAVEL + REACT + MYSQL
   </li>
   <li>
-    <a href="https://github.com/gabriellatcc/PokeTeamUp"> POKETEAM UP - Uma aplicação para criar times com personagens da API Pokemon</a> 2025.12 - 2026.01 <strong> CONCLUÍDO </strong><br>
-   Tecnologias: LARAVEL + NEXTJS + MYSQL
+    <a href="https://github.com/gabriellatcc/PokeTeamUp"> POKETEAM UP - An application for creating teams with characters from the Pokemon API.</a> 2025.12 - 2026.01 <strong> COMPLETED </strong><br>
+    Tech Stack: LARAVEL + NEXTJS + MYSQL
   </li>
   <li>
-    <a href="https://github.com/gabriellatcc/Java-Solitaire"> Java Solitaire - Jogo de turnos com cartas (via terminal)</a> 2025.09 - <strong>EM DESENVOLVIMENTO</strong><br>
-   Tecnologias: JAVA
+    <a href="https://github.com/gabriellatcc/Java-Solitaire"> Java Solitaire - Turn-based card game (via terminal)</a> 2025.09 - <strong>EM DESENVOLVIMENTO</strong><br>
+     Tech Stack: JAVA + REACT
   </li>
   <li>
-    <a href="https://github.com/gabriellatcc/Java-Block-Drop/"> Java Block Drop - Mini game de turnos com tetraminós (via terminal) </a> 2025.08 - 2025.09 <strong>CONCLUÍDO</strong><br>
-      Tecnologias: JAVA
+    <a href="https://github.com/gabriellatcc/Java-Block-Drop/"> Java Block Drop - Turn-based mini-game with tetrominoes (via terminal) </a> 2025.08 - 2025.09 <strong> COMPLETED </strong><br>
+    Tech Stack: JAVA
   </li>
 </ul>
-<strong>OBS</strong>: coloco ênfase aqui na aprendizagem na revisão da estrutura e na utilização dos métodos padrões dos respectivos frameworks
 
-<h2>Projetos em grupo:</h2>
+<h2>College Projects</h2>
 <ul>
  <li>
-  <a href="https://github.com/gabriellatcc/Memomind"> Memomind - Jogo da memória com arduino</a> 2025.08 à 2025.11 - Fatec <strong>CONLUÍDO</strong><br>
-   Tecnologias: LARAVEL + NODEJS + PHP + CSS + HTML + SH + MYSQL + <code>C++</code>
+  <a href="https://github.com/gabriellatcc/Memomind"> Memomind - Memory game with Arduino</a> 2025.08 à 2025.11 - Fatec <strong> COMPLETED </strong><br>
+   Tech Stack: LARAVEL + NODEJS + PHP + CSS + HTML + SH + MYSQL + <code>C++</code>
  </li> 
  <li>
-  <a href="https://github.com/gabriellatcc/Eventually"> Eventually - Sistema de Gerenciamento de Eventos </a>2025.04 à 2025.07 - Fatec <strong>CONCLUÍDO</strong><br>
-     Tecnologias: JAVA + CSS + JAVAFX + MAVEN
+  <a href="https://github.com/gabriellatcc/Eventually"> Eventually - Event Management System</a>2025.04 à 2025.07 - Fatec <strong> COMPLETED </strong><br>
+     Tech Stack: JAVA + CSS + JAVAFX + MAVEN
  </li>
   <li>
-  <a href="https://github.com/gabriellatcc/Motorize"> Motorize - Sistema de Gerenciamento para Oficinas </a>2025.05 à 2025.07 -  Fatec <strong> CONCLUÍDO</strong><br>
-      Tecnologias: C# + MYSQL
+  <a href="https://github.com/gabriellatcc/Motorize"> Motorize - Management System for Mechanical Workshops </a>2025.05 à 2025.07 -  Fatec <strong> COMPLETED </strong><br>
+      Tech Stack: C# + MYSQL
  </li>
 </ul>
