@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá+!+Gabriella+aqui;Bem+Vindo+ao+meu+Github&size=30)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+!+Gabriella+here;Welcome+to+mine+Github&size=30)](https://git.io/typing-svg)
 
 ---
 
@@ -34,11 +34,11 @@ On the frontend, I create dynamic and modular interfaces with React. My main foc
 <h2>Freelance Projects</h2>
 <ul>
   <li>
-    <a href="https://www.drechsler.net.br/" target="_blank"><strong>Drechsler</strong></a> - <em> Repositório Privado </em> | since may 2026 - <strong>PRODUCTION</strong> <br>
+    <a href="https://www.drechsler.net.br/" target="_blank"><strong>Drechsler</strong></a> - <em> Private Repository </em> | since may 2026 - <strong>PRODUCTION</strong> <br>
     Tech Stack: REACT + TYPESCRIPT + VITE + TAILWIND | API: FASTIFY + PRISMA + POSTGRESQL + DOCKER
   </li>
   <li>
-    <a href="https://casamento-bruna-alexandre.vercel.app/" target="_blank"><strong>Bruna and Alexandre's Wedding</strong></a> - <em> Repositório Privado </em> | desde maio 2026 - <strong>PRODUCTION</strong> <br>
+    <a href="https://casamento-bruna-alexandre.vercel.app/" target="_blank"><strong>Bruna and Alexandre's Wedding</strong></a> - <em> Private Repository </em> | since may 2026 - <strong>PRODUCTION</strong> <br>
     Tech Stack: ANGULAR 18 + LARAVEL 11 + MYSQL
   </li>
 </ul>
@@ -46,35 +46,35 @@ On the frontend, I create dynamic and modular interfaces with React. My main foc
 <h2>Personal Projects</h2>
 <ul>
   <li>
-    <a href="https://github.com/gabriellatcc/metricnotes-web">MetricNotes - Website for Self-Management</a> 2026.04 - 2026.06 <strong> COMPLETED </strong><br>
+    <a href="https://github.com/gabriellatcc/metricnotes-web">MetricNotes - Website for Self-Management</a> 2026.04 to 2026.06 - <strong> COMPLETED </strong><br>
     Tech Stack: VITE + LARAVEL + REACT + MYSQL
   </li>
   <li>
-    <a href="https://github.com/gabriellatcc/PokeTeamUp"> POKETEAM UP - An application for creating teams with characters from the Pokemon API.</a> 2025.12 - 2026.01 <strong> COMPLETED </strong><br>
+    <a href="https://github.com/gabriellatcc/PokeTeamUp"> POKETEAM UP - An application for creating teams with characters from the Pokemon API.</a> 2025.12 to 2026.01 - <strong> COMPLETED </strong><br>
     Tech Stack: LARAVEL + NEXTJS + MYSQL
   </li>
   <li>
-    <a href="https://github.com/gabriellatcc/Java-Solitaire"> Java Solitaire - Turn-based card game (via terminal)</a> 2025.09 - <strong>EM DESENVOLVIMENTO</strong><br>
+    <a href="https://github.com/gabriellatcc/Java-Solitaire"> Java Solitaire - Turn-based card game (via terminal)</a> 2025.09 - <strong>IN DEVELOPMENT</strong><br>
      Tech Stack: JAVA + REACT
   </li>
   <li>
-    <a href="https://github.com/gabriellatcc/Java-Block-Drop/"> Java Block Drop - Turn-based mini-game with tetrominoes (via terminal) </a> 2025.08 - 2025.09 <strong> COMPLETED </strong><br>
+    <a href="https://github.com/gabriellatcc/Java-Block-Drop/"> Java Block Drop - Turn-based mini-game with tetrominoes (via terminal) </a> 2025.08 to 2025.09 - <strong> COMPLETED </strong><br>
     Tech Stack: JAVA
   </li>
 </ul>
 
-<h2>College Projects</h2>
+<h2>College Projects | Faculdade de Tecnologia de Cruzeiro - Prof. Waldomiro May</h2>
 <ul>
  <li>
-  <a href="https://github.com/gabriellatcc/Memomind"> Memomind - Memory game with Arduino</a> 2025.08 à 2025.11 - Fatec <strong> COMPLETED </strong><br>
+  <a href="https://github.com/gabriellatcc/Memomind"> Memomind - Memory game with Arduino</a> 2025.08 to 2025.11 - <strong> COMPLETED </strong><br>
    Tech Stack: LARAVEL + NODEJS + PHP + CSS + HTML + SH + MYSQL + <code>C++</code>
  </li> 
  <li>
-  <a href="https://github.com/gabriellatcc/Eventually"> Eventually - Event Management System</a>2025.04 à 2025.07 - Fatec <strong> COMPLETED </strong><br>
+  <a href="https://github.com/gabriellatcc/Eventually"> Eventually - Event Management System</a>2025.04 to 2025.07 - <strong> COMPLETED </strong><br>
      Tech Stack: JAVA + CSS + JAVAFX + MAVEN
  </li>
   <li>
-  <a href="https://github.com/gabriellatcc/Motorize"> Motorize - Management System for Mechanical Workshops </a>2025.05 à 2025.07 -  Fatec <strong> COMPLETED </strong><br>
+  <a href="https://github.com/gabriellatcc/Motorize"> Motorize - Management System for Mechanical Workshops </a>2025.05 to 2025.07 -  <strong> COMPLETED </strong><br>
       Tech Stack: C# + MYSQL
  </li>
 </ul>
