@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+!+Gabriella+here;Welcome+to+mine+Github&size=30)](https://git.io/typing-svg)
 
----
-
 `Software Web Developer`
 <p>I work in web software development, building complete solutions from backend to frontend. I develop robust systems with PHP and Laravel, as well as create and document scalable APIs using Node.js, TypeScript, and Swagger.<br>
 On the frontend, I create dynamic and modular interfaces with React. My main focus is to deliver clean, well-structured, and easily maintainable code, ensuring efficient integrations and architectures without unnecessary complexity.</p>
@@ -12,8 +10,7 @@ On the frontend, I create dynamic and modular interfaces with React. My main foc
   <img alt="LinkedIn" src="https://img.shields.io/badge/-%F0%9F%94%97_LinkedIn-02afe8?style=for-the-badge&logoColor=white" height="50" />
 </a>
 
----
-## Tecnologias
+## Technologies
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
