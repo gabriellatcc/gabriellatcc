@@ -31,7 +31,7 @@ On the frontend, I create dynamic and modular interfaces with React. My main foc
 <h2>Freelance Projects</h2>
 <ul>
   <li>
-    <a href="https://www.drechsler.net.br/" target="_blank"><strong>Drechsler</strong></a> - <em> Private Repository </em> | since may 2026 - <strong>PRODUCTION</strong> <br>
+    <a href="https://www.drechsler.net.br/" target="_blank"><strong>Drechsler</strong></a> - <em> Private Repository </em> | since jun 2026 - <strong>PRODUCTION</strong> <br>
     Tech Stack: REACT + TYPESCRIPT + VITE + TAILWIND | API: FASTIFY + PRISMA + POSTGRESQL + DOCKER
   </li>
   <li>
