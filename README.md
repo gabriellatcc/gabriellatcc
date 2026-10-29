@@ -44,10 +44,6 @@ On the frontend, I create dynamic and modular interfaces with React. My main foc
 <h2>Personal Projects</h2>
 <ul>
   <li>
-    <a href="https://github.com/gabriellatcc/metricnotes-web">MetricNotes - Website for Self-Management</a> 2026.04 to 2026.06 - <strong> COMPLETED </strong><br>
-    Tech Stack: VITE + LARAVEL + REACT + MYSQL
-  </li>
-  <li>
     <a href="https://github.com/gabriellatcc/PokeTeamUp"> POKETEAM UP - An application for creating teams with characters from the Pokemon API.</a> 2025.12 to 2026.01 - <strong> COMPLETED </strong><br>
     Tech Stack: LARAVEL + NEXTJS + MYSQL
   </li>
@@ -58,6 +54,10 @@ On the frontend, I create dynamic and modular interfaces with React. My main foc
   <li>
     <a href="https://github.com/gabriellatcc/Java-Block-Drop/"> Java Block Drop - Turn-based mini-game with tetrominoes (via terminal) </a> 2025.08 to 2025.09 - <strong> COMPLETED </strong><br>
     Tech Stack: JAVA
+  </li>
+  <li>
+  <a href="https://github.com/gabriellatcc/supermarket-api"> Supermarket API - REST API for a supermarket system</a> 2026.10 - <strong> IN DEVELOPMENT </strong><br>
+  Tech Stack: JAVA 21 + SPRING BOOT + POSTGRESQL + FLYWAY + DOCKER
   </li>
 </ul>
 
@@ -75,4 +75,8 @@ On the frontend, I create dynamic and modular interfaces with React. My main foc
   <a href="https://github.com/gabriellatcc/Motorize"> Motorize - Management System for Mechanical Workshops </a>2025.05 to 2025.07 -  <strong> COMPLETED </strong><br>
       Tech Stack: C# + MYSQL
  </li>
+    <li>
+      <a href="https://github.com/gabriellatcc/metricnotes-web">MetricNotes - Website for Self-Management</a> 2026.04 to 2026.06 - <strong> COMPLETED </strong><br>
+      Tech Stack: VITE + LARAVEL + REACT + MYSQL
+    </li>
 </ul>
