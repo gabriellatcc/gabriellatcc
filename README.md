@@ -3,6 +3,9 @@
 `Software Web Developer`
 <p>I work in web software development, building complete solutions from backend to frontend. I develop robust systems with PHP and Laravel, as well as create and document scalable APIs using Node.js, TypeScript, and Swagger.<br>
 On the frontend, I create dynamic and modular interfaces with React. My main focus is to deliver clean, well-structured, and easily maintainable code, ensuring efficient integrations and architectures without unnecessary complexity.</p>
+<a href="https://gabriellatcc.github.io/portfolio/" target="_blank">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" height="50" />
+</a>&nbsp;&nbsp;
 <a href="mailto:gabriellatccorrea@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-ed214d?style=for-the-badge&logo=gmail&logoColor=white" height="50" />
 </a>&nbsp;&nbsp;
